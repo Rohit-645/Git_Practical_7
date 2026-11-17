@@ -1,0 +1,1 @@
+This project demonstrates creating a local Git repository and pushing code to Github.
